@@ -1,0 +1,172 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción a la bioestadística — Presentaciones 2026",
+    "section": "",
+    "text": "Presentaciones del curso\nPresentaciones de clase del curso Introducción a la bioestadística e interpretación de datos en la literatura biomédica (Universidad del Cauca, 2026). Cada página contiene la presentación completa, un índice de sus diapositivas y la versión descargable en PowerPoint. Las presentaciones están en inglés.\nPrograma del curso (syllabus): https://jacalvache.github.io/intro_biostat_2026/",
+    "crumbs": [
+      "Presentaciones del curso"
+    ]
+  },
+  {
+    "objectID": "index.html#índice-general",
+    "href": "index.html#índice-general",
+    "title": "Introducción a la bioestadística — Presentaciones 2026",
+    "section": "Índice general",
+    "text": "Índice general\n\n\n\nSesión\nPresentación\nTemas\nDiapositivas\nAbrir\n\n\n\n\nIntroducción\nIntroduction to Biostatistics\nPresentación del curso: descripción, objetivos, estructura por Sections, bibliografía, evaluación y políticas\n24\nHTMLPPTX\n\n\nSection 1\nScience Before Statistics\n“Ciencia antes que estadística” · La pregunta y los diseños de investigación · Objetivos generales del análisis de datos · Descripción, causalidad y predicción\n197\nHTMLPPTX\n\n\nSection 2\nTypes of Data, Data Description and Measures of Association\nTipos de datos · Gráficos y descripción de datos · Medidas de ocurrencia de enfermedad · Medidas de asociación y efecto\n124\nHTMLPPTX\n\n\nSection 3\nStatistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes\nInferencia estadística · Estimación y contrastes de hipótesis · Análisis de resultados continuos\n91\nHTMLPPTX\n\n\nSection 4\nAnalysis of Categorical Outcomes\nAnálisis de resultados categóricos · Análisis estratificado · Metanálisis\n34\nHTMLPPTX\n\n\nSection 5\nIntroduction to Multivariable Analysis\nModelamiento estadístico · Introducción al análisis multivariable · Confusión y ajuste · Regresión lineal, logística y de Cox\n38\nHTMLPPTX\n\n\nSection 6\nIntroduction to Survival Analysis\nAnálisis de datos de tiempo hasta el evento · Curvas de Kaplan-Meier y test de log-rank · Examen final\n16\nHTMLPPTX",
+    "crumbs": [
+      "Presentaciones del curso"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-usar-las-presentaciones",
+    "href": "index.html#cómo-usar-las-presentaciones",
+    "title": "Introducción a la bioestadística — Presentaciones 2026",
+    "section": "Cómo usar las presentaciones",
+    "text": "Cómo usar las presentaciones\n\nAvanzar / retroceder: flechas del teclado, barra espaciadora o clic.\nPantalla completa: tecla F (salir con Esc).\nVista general de todas las diapositivas: tecla Esc u O.\nNotas y pizarra: la presentación incluye una pizarra (icono del lápiz, abajo a la izquierda).\nImprimir o guardar en PDF: abre la presentación, agrega ?print-pdf al final de la dirección y usa Imprimir → Guardar como PDF en Chrome.",
+    "crumbs": [
+      "Presentaciones del curso"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introducción — Introduction to Biostatistics",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Presentación del curso: descripción, objetivos, estructura por Sections, bibliografía, evaluación y políticas\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción — Introduction to Biostatistics</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#índice-de-diapositivas",
+    "href": "intro.html#índice-de-diapositivas",
+    "title": "Introducción — Introduction to Biostatistics",
+    "section": "",
+    "text": "Note24 diapositivas — clic para desplegar\n\n\n\n\n\n1. Introduction to Biostatistics\n2. General overview\n3. The path through the course (1/2)\n4. The path through the course (2/2)\n5. Principal aims (1/2)\n6. Principal aims (2/2)\n7. Who is this course for?\n8. The course at a glance\n9. Course structure (1/2)\n10. Course structure (2/2)\n11. Readings by section (1/2)\n12. Readings by section (2/2)\n13. Mandatory readings\n14. Additional readings\n15. Methods\n16. Evaluation\n17. Course policies (1/4)\n18. Course policies (2/4)\n19. Course policies (3/4)\n20. Course policies (4/4)\n21. Materials and contents\n22. Who am I? (1/2)\n23. Who am I? (2/2)\n24. Contact",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción — Introduction to Biostatistics</span>"
+    ]
+  },
+  {
+    "objectID": "section1.html",
+    "href": "section1.html",
+    "title": "Section 1 — Science Before Statistics",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: “Ciencia antes que estadística” · La pregunta y los diseños de investigación · Objetivos generales del análisis de datos · Descripción, causalidad y predicción\nLecturas: Shoemaker y Delgado Noguera 2019, capítulos 1 y 2; Understanding Data and Statistics in the Medical Literature: Data collection (pp. 1–31), Types of scientific questions (pp. 53–72), Study design (pp. 40–41)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Section 1 — Science Before Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "section1.html#índice-de-diapositivas",
+    "href": "section1.html#índice-de-diapositivas",
+    "title": "Section 1 — Science Before Statistics",
+    "section": "",
+    "text": "Note197 diapositivas — clic para desplegar\n\n\n\n\n\n1. Science Before Statistics\n2. Science Before Statistics\n3. (imagen a pantalla completa)\n4. Why methodology matters\n5. Research incentives — the problem\n6. Practices resulting from prioritizing publication appearance over quality (1/2)\n7. Practices resulting from prioritizing publication appearance over quality (2/2)\n8. (imagen a pantalla completa)\n9. What is Science?\n10. What Science is not! (popular myths)\n11. Knowledge comes in many forms\n12. Areas of Science\n13. Why understand science?\n14. Why we need to understand\n15. Why we need to understand — the aftermath\n16. Major flaws with this study\n17. Major flaws with this study — what happened next\n18. Philosophy of Science\n19. Four terms: four meanings\n20. A fact\n21. A law\n22. A scientific hypothesis\n23. A scientific hypothesis — testability\n24. A theory\n25. Evidence\n26. Evidence — when a hypothesis is not verified\n27. Hypothetico-deductive reasoning\n28. Example: Echinacea and the common cold\n29. Example: testable predictions\n30. Example: conclusions\n31. (imagen a pantalla completa)\n32. Failure of falsification\n33. Against selection-of-test thinking\n34. Against selection-of-test thinking — credits\n35. (imagen a pantalla completa)\n36. Philosophy of Science — Inductivism\n37. Philosophy of Science — Inductivism (cont.)\n38. Some forms of inductivism\n39. Problems with inductivism\n40. Hypothetico-deductive and falsification\n41. Hypothetico-deductive and falsification — Fisher’s framing\n42. Issues with this theory\n43. The Bayesian approach\n44. The Bayesian approach — Poincaré\n45. The Bayesian approach — reasoning\n46. (imagen a pantalla completa)\n47. Frequentist vs Bayesian (1/3)\n48. Frequentist vs Bayesian (2/3)\n49. Frequentist vs Bayesian (3/3)\n50. (imagen a pantalla completa)\n51. A few words on: Pseudoscience\n52. A few words on: Pseudoscience (cont.)\n53. How to recognize Pseudoscience\n54. The Research Question and Study Designs\n55. Right problem and right question\n56. Research question\n57. (imagen a pantalla completa)\n58. What is the research question?\n59. Question types\n60. Background vs Foreground questions\n61. Background vs Foreground — components\n62. Background vs Foreground — examples\n63. Question and study design\n64. Types of clinical questions\n65. Methodological design\n66. Diagnosis and Prognosis\n67. Etiology and Treatment\n68. Matching the question type to study designs\n69. The research process — elements\n70. Study designs\n71. Study designs — overview\n72. Study designs — illustrated\n73. Prospective vs retrospective studies\n74. Key questions for choosing a design\n75. Pyramids? Not very accurate!\n76. Pyramids — the takeaway\n77. Cohort studies\n78. “Cohort” — the word’s origin\n79. “Cohort” — what it means today\n80. Cohort studies — basic analytical approach\n81. Cohort studies — closed cohort example\n82. Variations of cohort studies\n83. Cohort studies — characteristics\n84. Example. Rotterdam Study\n85. Rotterdam Study — examination cycles\n86. Rotterdam Study — research questions\n87. Rotterdam Study — research questions (cont.)\n88. Case-control study\n89. Case-control study — schematic design\n90. Case-control study — hypothetical cohort view\n91. Cohort vs Case-control — comparison\n92. Sampling strategies\n93. Case-control — example: tobacco and lung cancer\n94. Case-control — characteristics\n95. Cross sectional studies\n96. Cross sectional studies — schematic representation\n97. Cross sectional studies — characteristics\n98. Cross sectional — example\n99. Cross sectional — example (reference)\n100. Observational designs — measures summary\n101. Activity\n102. Activity — results\n103. Diagnostic test assessment (DTA)\n104. DTA — basic design\n105. Diagnostic performance — ROC curve\n106. Case report / Case series\n107. Case series or cohort study?\n108. Case series or cohort study? — the cohort view\n109. Case series or cohort study? — relative risk formula\n110. Case series or cohort study? — case series structure\n111. Case series structure\n112. Case series — the sampling view\n113. Difference between the two designs\n114. Key points\n115. Randomized clinical trial\n116. Characteristics of clinical trials\n117. Basic scheme\n118. A bit of history\n119. A bit of history — reference\n120. The streptomycin trial — results\n121. The streptomycin trial — mortality\n122. The streptomycin trial — radiological assessment\n123. Systematic reviews\n124. Systematic reviews — built brick by brick\n125. Why do we need systematic reviews\n126. The exponential growth of the literature\n127. Systematic reviews — the process\n128. Forest plots — reading the summary of evidence\n129. Forest plot — worked example\n130. Forrest plot\n131. Forrest plot — the connection\n132. General Aims of Data Analysis\n133. Steps in the research process\n134. Three scientific tasks of data science\n135. Description\n136. Prediction\n137. Causal inference\n138. The research objectives\n139. Objectives as a route map\n140. On invention and method\n141. To Explain or to Predict? — Shmueli 2010\n142. Why modeling frameworks matter\n143. To Explain or to Predict?\n144. Explanatory modeling\n145. Predictive modeling\n146. Two modeling paths\n147. Descriptive Modeling\n148. Descriptive Modeling (cont.)\n149. Association versus Causation\n150. Association versus Causation — types\n151. Association — a clinical example\n152. Association — advancing the reasoning\n153. From association to causation in epidemiology\n154. Open your mind,\n155. Open your mind, (cont.)\n156. Open your mind — the question\n157. Assumptions of causality (1/2)\n158. Assumptions of causality (2/2)\n159. Association versus Causation (conceptually speaking)\n160. Correlation is not causation\n161. Dark Causal Inference (1/2)\n162. Dark Causal Inference (2/2)\n163. “Effect” Without an Intervention — Electric Blankets and Childhood Cancer\n164. The “Risk Factor” Label — Perinatal Exposures and Maternal Morbidity\n165. The Convenience Disclaimer — Income and Happiness\n166. Hydroxychloroquine and COVID-19 mortality (1/2)\n167. Hydroxychloroquine and COVID-19 mortality (2/2)\n168. COVID-19 severity: Smoking as a “Risk Factor” (1/2)\n169. COVID-19 severity: Smoking as a “Risk Factor” (2/2)\n170. Research Questions: The Fundamental Triad\n171. Research Questions: The Fundamental Triad — key principle\n172. The Problem with “Association”\n173. The Problem with “risk factors to…” (1/2)\n174. The Problem with “risk factors to…” (2/2)\n175. The “Plague” of Risk Factor Epidemiology & False Positives (1/2)\n176. The “Plague” of Risk Factor Epidemiology & False Positives (2/2)\n177. The “Risk Factor” Trap: Methodological Pitfalls (1/2)\n178. The “Risk Factor” Trap: Methodological Pitfalls (2/2)\n179. Transparent Use of Scientific Language\n180. Transparent Use of Scientific Language — assumptions\n181. Research Objectives and Interpretation\n182. Research Objectives and Interpretation — core principle\n183. The importance of language\n184. The importance of language — reference\n185. A statistical “bingo card” of common pitfalls\n186. The CHAMP statement\n187. CHAMP — design and conduct\n188. CHAMP — data analysis\n189. CHAMP — reporting and presentation\n190. CHAMP — interpretation\n191. What is Biostatistics\n192. I need a scientific question\n193. I need a scientific question — translation\n194. What is Biostatistics\n195. What is Biostatistics (cont.)\n196. Statistical scientific method\n197. Putting it all together",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Section 1 — Science Before Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "section2.html",
+    "href": "section2.html",
+    "title": "Section 2 — Types of Data, Data Description and Measures of Association",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Tipos de datos · Gráficos y descripción de datos · Medidas de ocurrencia de enfermedad · Medidas de asociación y efecto\nLecturas: Shoemaker y Delgado Noguera 2019, capítulos 7, 8 y 9; Understanding Data and Statistics in the Medical Literature: Statistical graphics (pp. 100–141), Measures of association (pp. 75–86)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Section 2 — Types of Data, Data Description and Measures of Association</span>"
+    ]
+  },
+  {
+    "objectID": "section2.html#índice-de-diapositivas",
+    "href": "section2.html#índice-de-diapositivas",
+    "title": "Section 2 — Types of Data, Data Description and Measures of Association",
+    "section": "",
+    "text": "Note124 diapositivas — clic para desplegar\n\n\n\n\n\n1. Types of Data, Data Description and Measures of Association\n2. Types of Data\n3. Basic principles of research\n4. Basic principles in data analysis\n5. Basic definitions\n6. Population\n7. Population — definition and unit of analysis\n8. Sample\n9. Variable\n10. Types of variables\n11. Nominal variables\n12. Nominal variables (cont.)\n13. Ordinal variables\n14. How to summarize: frequency table (n, %)\n15. Qualitative variables\n16. Discrete (quantitative) variables\n17. Continuous (quantitative) variables\n18. Data\n19. Data sample\n20. Data sample — example\n21. Example: healthy lifestyle and life expectancy\n22. Example — abstract (1/4)\n23. Example — abstract (2/4)\n24. Example — abstract (3/4)\n25. Example — abstract (4/4)\n26. Example — conclusion\n27. Example — Table 1\n28. Graphs and Data Description\n29. Qualitative variables (n, %)\n30. Qualitative variables — example\n31. Quantitative variables\n32. Centralization and dispersion\n33. Mean (({x}))\n34. Standard deviation (SD)\n35. Mean and SD — example\n36. Normal distribution\n37. Normal distribution — standard normal\n38. Normal distribution — different means and variances\n39. Normal distribution — heart rate example\n40. SD and normal distribution\n41. SD and normal distribution — μ ± σ\n42. Reporting mean ± SD\n43. Mean in a skewed distribution\n44. Median and quartiles\n45. Quartiles and the boxplot\n46. Median\n47. Median — calculation\n48. Median — properties\n49. Data from 240 medical students (ALT)\n50. Data from 240 medical students (ALT) — histogram\n51. Median (50th percentile)\n52. Median and IQR\n53. Distribution of the data\n54. Families of distributions\n55. Graphs in statistics\n56. Graphs by type of variable\n57. Graphs in statistics — overview\n58. Qualitative data\n59. Qualitative data — bar chart\n60. Quantitative data\n61. Histograms\n62. Histograms by group\n63. Density plots by group\n64. Relationships between variables\n65. Scatter plot — outliers\n66. Scatter plot — life expectancy and GNP\n67. Scatter plot — agreement between methods\n68. Scatter plot matrix\n69. Boxplot\n70. Boxplot with data points\n71. Violin plot 1\n72. Violin plot 2\n73. Harrell plot\n74. Harrell plots vs. common alternatives\n75. Ridgeline plot\n76. More complex graphs\n77. Tufte’s views on graphical excellence\n78. Tufte — graphical displays should (1/2)\n79. Tufte — graphical displays should (2/2)\n80. Summary: variables, descriptives and graphs\n81. Banning bar graphs\n82. Dot plot example\n83. Descriptive statistics / Describing data\n84. Measures of Occurrence, Association and Effect\n85. Measures of occurrence, association and effect\n86. Risk and basic measures of frequency\n87. Risk — Incidence\n88. Risk — Cumulative incidence (CI)\n89. Risk — Cumulative incidence: examples and uses\n90. Risk — “Rate”\n91. Risk — Incidence rate (IR)\n92. CI versus IR\n93. CI versus IR — calculation\n94. IR (incidence rate) — example\n95. Risk vs Rate\n96. Mortality\n97. Risk — Prevalence\n98. Point prevalence\n99. Period prevalence\n100. Point / Period\n101. Prevalence and incidence relationship\n102. Incidence, prevalence and outflow\n103. 2 × 2 table\n104. 2 × 2 table — frequency measures\n105. Absolute association measures\n106. Relative association measures: relative risk / CIR\n107. Relative risk / CIR — formula\n108. Relative risk — example (Honolulu Heart Programme, Abbot, 1980)\n109. Relative risk — example calculation\n110. Odds\n111. Odds — risk vs odds\n112. Odds ratio\n113. Odds ratio — 2 × 2 table\n114. Odds ratio — formula\n115. Odds ratio — example (MacMahon et al., NEJM, 1981)\n116. RR and OR interpretation (1/2)\n117. RR and OR interpretation (2/2)\n118. Risk “vs” Odds\n119. Clarifying some concepts\n120. Is caviar a risk factor for being a millionaire?\n121. The risk factor approach\n122. Four broad objectives of clinical research\n123. Objectives and definitions of risk factor\n124. Therefore…",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Section 2 — Types of Data, Data Description and Measures of Association</span>"
+    ]
+  },
+  {
+    "objectID": "section3.html",
+    "href": "section3.html",
+    "title": "Section 3 — Statistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Inferencia estadística · Estimación y contrastes de hipótesis · Análisis de resultados continuos\nLecturas: Shoemaker y Delgado Noguera 2019, capítulo 6; Understanding Data and Statistics in the Medical Literature: Measures of association (pp. 87–92)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Section 3 — Statistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes</span>"
+    ]
+  },
+  {
+    "objectID": "section3.html#índice-de-diapositivas",
+    "href": "section3.html#índice-de-diapositivas",
+    "title": "Section 3 — Statistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes",
+    "section": "",
+    "text": "Note91 diapositivas — clic para desplegar\n\n\n\n\n\n1. Statistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes\n2. Statistical Inference and Estimation\n3. Population and sample\n4. Population and sample — sampling error\n5. Random sample\n6. Simple sampling\n7. Simple sampling — human intervention\n8. Sampling theory\n9. Consider this situation,\n10. Five random samples (n = 100) from N = 1,000\n11. “The mean” of the sampling means\n12. Sampling theory — SEM\n13. Standard error of the mean (SEM)\n14. The normal distribution — Gauss\n15. The normal distribution\n16. The normal distribution — properties\n17. The normal distribution — 68% and 95%\n18. Sampling distribution — blood pressure\n19. Sampling distribution — length of stay\n20. 500 sample means — length of stay\n21. Sampling distributions — both variables\n22. Why is the normal distribution important?\n23. SEM and the 95% CI\n24. 95% confidence interval — example\n25. 95% confidence interval — calculation\n26. 95% confidence interval\n27. 95% confidence interval (cont.)\n28. For example, (p)\n29. For example, odds ratio\n30. For example, meta-analysis\n31. Finally: Standard deviation “versus” standard error\n32. Hypothesis Testing\n33. Test or hypothesis contrasts\n34. Test or hypothesis contrasts (cont.)\n35. Contrasting a hypothesis — example\n36. Hypothesis\n37. Contrasts of hypotheses – Steps,\n38. 1. Identify and construct the hypothesis\n39. The null and alternative hypothesis (H0 – H1)\n40. H0 and H1 — example\n41. Reasoning of the hypothesis contrast,\n42. Reasoning of the contrast — no evidence\n43. Level of significance\n44. Level of significance (α)\n45. Unilateral or bilateral contrast (H1)\n46. Signification (p value)\n47. Signification (p value) — graphical view\n48. Signification (p value) — significant result\n49. Significant result — graphical view\n50. In short, α and p\n51. Risks in the contrast of hypotheses\n52. Judicial legal process\n53. Other examples,\n54. Other examples — types of error\n55. Types I and II errors\n56. Balance between α and β\n57. Final summary,\n58. Final summary (cont.)\n59. Analysis of Continuous Outcomes\n60. From sample to population\n61. Test for a single group\n62. Test for a single group — Z and t tests\n63. Z test and t test\n64. Example,\n65. Example — confidence interval\n66. Example — from sample to population\n67. Test to compare independent means\n68. Test to compare independent means — data\n69. Independent means — hypotheses\n70. Test to compare independent means — 95% CI\n71. Conclusion\n72. FEV1 and respiratory symptoms\n73. Assumptions of the t test\n74. Test to compare related means\n75. Test to compare related means — example\n76. Test to compare related means — results\n77. Smoking and lung function\n78. Smoking and lung function — data\n79. Smoking and lung function — 95% CI\n80. Smoking and lung function — z test\n81. Smoking and lung function — p value\n82. P values and CIs (1/2)\n83. P values and CIs (2/2)\n84. Non-parametric tests for means\n85. Mann-Whitney U test // Wilcoxon test\n86. Mann-Whitney U test\n87. Mann-Whitney U test — data\n88. Mann-Whitney U test — why?\n89. Mann-Whitney U test — 1. reorganize data (ranks)\n90. Mann-Whitney U test — result\n91. When t-test and when Mann-Whitney U test?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Section 3 — Statistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes</span>"
+    ]
+  },
+  {
+    "objectID": "section4.html",
+    "href": "section4.html",
+    "title": "Section 4 — Analysis of Categorical Outcomes",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Análisis de resultados categóricos · Análisis estratificado · Metanálisis\nLecturas: Shoemaker y Delgado Noguera 2019, capítulo 15; Understanding Data and Statistics in the Medical Literature: Measures of association (pp. 75–86), Study design (pp. 40–41)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Section 4 — Analysis of Categorical Outcomes</span>"
+    ]
+  },
+  {
+    "objectID": "section4.html#índice-de-diapositivas",
+    "href": "section4.html#índice-de-diapositivas",
+    "title": "Section 4 — Analysis of Categorical Outcomes",
+    "section": "",
+    "text": "Note34 diapositivas — clic para desplegar\n\n\n\n\n\n1. Analysis of categorical outcomes\n2. Population and sample\n3. Key terms\n4. CI95% for a proportion\n5. CI95% for a proportion — formulas\n6. Example\n7. Example — CI95% calculation\n8. Comparing proportions\n9. Comparing proportions — study data\n10. Risk of transmission (CI 18 months)\n11. Risk of transmission — CI calculation\n12. Cumulative incidence and CI 95%\n13. Chi2 test\n14. Chi2 test — observed table\n15. Chi2 test — formula\n16. “Observed” vs “expected” if H0 were true\n17. “Expected” if the H0 were true\n18. Chi2 test — formula\n19. P value for Chi2 test\n20. Chi2 test — conclusion\n21. Example 2\n22. Example 2 — 2×2 table\n23. Example 2 — results\n24. Example 2 — proportions\n25. Example 2 — hypothesis test\n26. Fisher’s exact test\n27. Fisher’s exact test — example\n28. Fisher’s exact test — data\n29. Fisher’s exact test — reference\n30. Fisher’s exact test — results\n31. Test for variables with more than two categories\n32. Test for variables with more than two categories — table\n33. Test for variables with more than two categories — result\n34. Test for variables with more than two categories — conclusion",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Section 4 — Analysis of Categorical Outcomes</span>"
+    ]
+  },
+  {
+    "objectID": "section5.html",
+    "href": "section5.html",
+    "title": "Section 5 — Introduction to Multivariable Analysis",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Modelamiento estadístico · Introducción al análisis multivariable · Confusión y ajuste · Regresión lineal, logística y de Cox\nLecturas: Understanding Data and Statistics in the Medical Literature: Statistical models (pp. 148–196)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Section 5 — Introduction to Multivariable Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "section5.html#índice-de-diapositivas",
+    "href": "section5.html#índice-de-diapositivas",
+    "title": "Section 5 — Introduction to Multivariable Analysis",
+    "section": "",
+    "text": "Note38 diapositivas — clic para desplegar\n\n\n\n\n\n1. Introduction to Multivariable Analysis\n2. Section objectives\n3. Multivariable analysis\n4. Example: chronic low back pain\n5. What is multivariable analysis?\n6. Multivariate or multivariable regression?\n7. Multivariate or multivariable regression? (cont.)\n8. Confounding\n9. Multivariable analysis and confounding\n10. For example,\n11. Age and systolic blood pressure\n12. Age and systolic blood pressure — scatter plot\n13. Simple linear regression\n14. Simple linear regression — the slope\n15. Multiple linear regression\n16. Multiple linear regression — coefficients\n17. Regression equation\n18. Regression equation — terminology\n19. Types of multivariable analysis\n20. Outcome: continuous\n21. Outcome: continuous — example\n22. Outcome: continuous — results\n23. Outcome: continuous — fitted equation\n24. Outcome: binary\n25. Outcome: binary — logistic model\n26. Outcome: binary — example (1/4)\n27. Outcome: binary — example (2/4)\n28. Outcome: binary — example (3/4)\n29. Outcome: binary — example (4/4)\n30. Outcome: time to event\n31. Uses of multivariable techniques\n32. Example: Cox regression in a published study\n33. Common statistical tests are linear models\n34. Choosing a statistical analysis\n35. Final critical points (1/2)\n36. Final critical points (2/2)\n37. Contact\n38. Scan the QR code",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Section 5 — Introduction to Multivariable Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "section6.html",
+    "href": "section6.html",
+    "title": "Section 6 — Introduction to Survival Analysis",
+    "section": "",
+    "text": "Índice de diapositivas\nTemas: Análisis de datos de tiempo hasta el evento · Curvas de Kaplan-Meier y test de log-rank · Examen final\nLecturas: Understanding Data and Statistics in the Medical Literature: Statistical models (pp. 148–196)\nUsa las flechas del teclado o haz clic dentro de la presentación para avanzar; la tecla F la muestra en pantalla completa y Esc muestra todas las diapositivas.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Section 6 — Introduction to Survival Analysis</span>"
+    ]
+  },
+  {
+    "objectID": "section6.html#índice-de-diapositivas",
+    "href": "section6.html#índice-de-diapositivas",
+    "title": "Section 6 — Introduction to Survival Analysis",
+    "section": "",
+    "text": "Note16 diapositivas — clic para desplegar\n\n\n\n\n\n1. Introduction to Survival Analysis\n2. Section objectives\n3. Survival curves\n4. Longitudinal studies\n5. Longitudinal studies — cumulative incidence\n6. Time to …\n7. Main feature of survival analysis: censoring\n8. Survival analysis?\n9. Summarizing survival data\n10. Strategies for analyzing survival data\n11. Survival curve\n12. Survival curve — two groups\n13. Kaplan-Meier survival curve\n14. Comparing two survival curves\n15. Comparing several survival curves\n16. Contact",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Section 6 — Introduction to Survival Analysis</span>"
+    ]
+  }
+]
