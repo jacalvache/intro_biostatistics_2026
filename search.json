@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Introducción a la bioestadística — Presentaciones 2026",
     "section": "",
-    "text": "Presentaciones del curso\nPresentaciones de clase del curso Introducción a la bioestadística e interpretación de datos en la literatura biomédica (Universidad del Cauca, 2026). Cada página contiene la presentación completa, un índice de sus diapositivas y la versión descargable en PowerPoint. Las presentaciones están en inglés.\nPrograma del curso (syllabus): https://jacalvache.github.io/intro_biostat_2026/",
+    "text": "Presentaciones del curso\nPresentaciones de clase del curso Introducción a la bioestadística e interpretación de datos en la literatura biomédica (Universidad del Cauca, 2026). Cada página contiene la presentación completa y un índice de sus diapositivas, para consulta en línea. Las presentaciones están en inglés.\nPrograma del curso (syllabus): https://jacalvache.github.io/intro_biostat_2026/",
     "crumbs": [
       "Presentaciones del curso"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#índice-general",
     "title": "Introducción a la bioestadística — Presentaciones 2026",
     "section": "Índice general",
-    "text": "Índice general\n\n\n\nSesión\nPresentación\nTemas\nDiapositivas\nAbrir\n\n\n\n\nIntroducción\nIntroduction to Biostatistics\nPresentación del curso: descripción, objetivos, estructura por Sections, bibliografía, evaluación y políticas\n24\nHTMLPPTX\n\n\nSection 1\nScience Before Statistics\n“Ciencia antes que estadística” · La pregunta y los diseños de investigación · Objetivos generales del análisis de datos · Descripción, causalidad y predicción\n197\nHTMLPPTX\n\n\nSection 2\nTypes of Data, Data Description and Measures of Association\nTipos de datos · Gráficos y descripción de datos · Medidas de ocurrencia de enfermedad · Medidas de asociación y efecto\n124\nHTMLPPTX\n\n\nSection 3\nStatistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes\nInferencia estadística · Estimación y contrastes de hipótesis · Análisis de resultados continuos\n91\nHTMLPPTX\n\n\nSection 4\nAnalysis of Categorical Outcomes\nAnálisis de resultados categóricos · Análisis estratificado · Metanálisis\n34\nHTMLPPTX\n\n\nSection 5\nIntroduction to Multivariable Analysis\nModelamiento estadístico · Introducción al análisis multivariable · Confusión y ajuste · Regresión lineal, logística y de Cox\n38\nHTMLPPTX\n\n\nSection 6\nIntroduction to Survival Analysis\nAnálisis de datos de tiempo hasta el evento · Curvas de Kaplan-Meier y test de log-rank · Examen final\n16\nHTMLPPTX",
+    "text": "Índice general\n\n\n\nSesión\nPresentación\nTemas\nDiapositivas\nAbrir\n\n\n\n\nIntroducción\nIntroduction to Biostatistics\nPresentación del curso: descripción, objetivos, estructura por Sections, bibliografía, evaluación y políticas\n24\nAbrir\n\n\nSection 1\nScience Before Statistics\n“Ciencia antes que estadística” · La pregunta y los diseños de investigación · Objetivos generales del análisis de datos · Descripción, causalidad y predicción\n197\nAbrir\n\n\nSection 2\nTypes of Data, Data Description and Measures of Association\nTipos de datos · Gráficos y descripción de datos · Medidas de ocurrencia de enfermedad · Medidas de asociación y efecto\n124\nAbrir\n\n\nSection 3\nStatistical Inference, Hypothesis Testing and Analysis of Continuous Outcomes\nInferencia estadística · Estimación y contrastes de hipótesis · Análisis de resultados continuos\n91\nAbrir\n\n\nSection 4\nAnalysis of Categorical Outcomes\nAnálisis de resultados categóricos · Análisis estratificado · Metanálisis\n34\nAbrir\n\n\nSection 5\nIntroduction to Multivariable Analysis\nModelamiento estadístico · Introducción al análisis multivariable · Confusión y ajuste · Regresión lineal, logística y de Cox\n38\nAbrir\n\n\nSection 6\nIntroduction to Survival Analysis\nAnálisis de datos de tiempo hasta el evento · Curvas de Kaplan-Meier y test de log-rank · Examen final\n16\nAbrir",
     "crumbs": [
       "Presentaciones del curso"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#cómo-usar-las-presentaciones",
     "title": "Introducción a la bioestadística — Presentaciones 2026",
     "section": "Cómo usar las presentaciones",
-    "text": "Cómo usar las presentaciones\n\nAvanzar / retroceder: flechas del teclado, barra espaciadora o clic.\nPantalla completa: tecla F (salir con Esc).\nVista general de todas las diapositivas: tecla Esc u O.\nNotas y pizarra: la presentación incluye una pizarra (icono del lápiz, abajo a la izquierda).\nImprimir o guardar en PDF: abre la presentación, agrega ?print-pdf al final de la dirección y usa Imprimir → Guardar como PDF en Chrome.",
+    "text": "Cómo usar las presentaciones\n\nAvanzar / retroceder: flechas del teclado, barra espaciadora o clic.\nPantalla completa: tecla F (salir con Esc).\nVista general de todas las diapositivas: tecla Esc u O.\nPizarra: la presentación incluye una pizarra para tomar notas durante la consulta (icono del lápiz, abajo a la izquierda).\n\nLas presentaciones son para consulta en línea.",
     "crumbs": [
       "Presentaciones del curso"
     ]
